@@ -7,6 +7,7 @@
 **Phone:** +7 952 386 82 33
 **Email:** oksanius.ono@gmail.com
 **GitHub:** [Hold-My-Tea] (https://github.com/Hold-My-Tea)
+**Discord RS School:** Hold-My-Tea
 ## About me:
 *******************
 Working as Technical Customer Support Manager for a while, I've got very interested in IT sphere. I want to be a Frontend Developer and currently on my way learning and studying. I am very motivated and eager to learn.
