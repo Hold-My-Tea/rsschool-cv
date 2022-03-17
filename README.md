@@ -1,2 +1,1 @@
-# rsschool-cv
-https://Hold-My-Tea.github.io/rsschool-cv/cv
+https://Hold-My-Tea.github.io/rsschool-cv/
